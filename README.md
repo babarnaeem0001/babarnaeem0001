@@ -57,7 +57,7 @@
 ## Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117&hide=contribs&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=babarnaeem0001&show_icons=true&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117&hide=contribs&rank_icon=github"
   height="160"
 />
 &nbsp;
