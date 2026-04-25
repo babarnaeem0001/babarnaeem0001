@@ -62,7 +62,7 @@
 />
 &nbsp;
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=babarnaeem0001&layout=compact&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6"
   height="160"
 />
 
